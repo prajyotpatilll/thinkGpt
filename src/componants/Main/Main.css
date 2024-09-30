@@ -438,3 +438,40 @@
 
 
 }
+
+@media(max-width : 500px){
+  .resultdata p{
+    font-size: 17px;
+  }
+
+  .main-bottom{
+    position: absolute;
+    bottom: 15px;
+    padding: 10px;
+  }
+
+  .main{
+    padding: 10px;
+  }
+
+  .resultpro{
+    padding: 0px 10px 0px 10px;
+  }
+
+  .main-container{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   }
+   
+   .cards{
+    position: relative;
+    bottom: 50px;
+   }
+
+   .main-bottom {
+    width: 80vw;
+}
+   
+}

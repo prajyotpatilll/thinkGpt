@@ -48,10 +48,7 @@ function Main() {
                 <p>solve this 2+3</p>
                 <img src={assets.bulb_icon} alt="" />
               </div>
-              <div className="card">
-                <p>write the code</p>
-                <img src={assets.code_icon} alt="" />
-              </div>
+              
             </div>
           </>
         ) : (
@@ -94,10 +91,7 @@ function Main() {
               />
             </div>
           </div>
-          <div className="info-message">
-            <p>ProzGPT can make mistakes. Check important info.</p>
-            
-          </div>
+          
           
         </div>
       </div>
